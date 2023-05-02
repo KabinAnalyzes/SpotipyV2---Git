@@ -29,3 +29,5 @@ The applicaiton was built using the following:
 - CSS
 - JavaScript
  
+## Notes
+The application only has one feature but has potential in the future for additional features to be added based on need
